@@ -97,13 +97,16 @@
 
 //  if (age < 14 || age > 90);
 
-let browser = prompt("Enter browser's name");
+// let browser = prompt("Enter browser's name");
 
-if (browser === 'Edge'){
-    alert( "RIP Edge!" );
-} else if (browser === 'Chrome' || browser === 'Firefox' || browser === 'Safari' || browser === 'Opera'){
-    alert( 'Šios naršykles palaikomos' );
-} else{
-    alert( 'Tikimės, kad šis puslapis atrodys puikiai!' );
-}
+// if (browser === 'Edge'){
+//     alert( "RIP Edge!" );
+// } else if (browser === 'Chrome'
+//     || browser === 'Firefox'
+//     || browser === 'Safari'
+//     || browser === 'Opera') {
+//     alert( 'Šios naršykles palaikomos' );
+// } else{
+//     alert( 'Tikimės, kad šis puslapis atrodys puikiai!' );
+// }
 
