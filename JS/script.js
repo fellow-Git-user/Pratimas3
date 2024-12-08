@@ -58,3 +58,44 @@
 // } else{
 //     console.log( 'You car belongs to neither VW Group nor BMW Group' );
 // }
+
+// let myName = prompt('Name', '');
+
+// let message = (myName.length < 5) ? 'short name' :
+// 'long name' ;
+
+// console.log(message);
+
+// let clientAge = 17;
+// let legalAge = 18;
+
+// let result = (clientAge >= legalAge) ? 'Can Drive' : 'Cant drive';
+//  console.log(result);
+
+// let clientAge = 17;
+// let legalAge = 18;
+
+// clientAge < 0 || clientAge > 120 ? console.log( 'Invalid age' ) :
+// clientAge >= legalAge ? console.log('Can Drive') : console.log('Cant drive');
+
+// let phone = 'iphone';
+// let isIphoneUser = phone === 'iPhone';
+
+// let age = 15;
+
+// if (age >= 14 && age <= 90){
+//     console.log( 'Valid age' );
+// } else{
+//     console.log( 'Invalid' );
+// }
+
+// let age = 9;
+
+//  if (!(age >= 14 && age <= 90)){
+//      console.log( 'Valid age' );
+//  } 
+
+//  if (age < 14 || age > 90);
+
+
+
