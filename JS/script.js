@@ -30,4 +30,22 @@
 //     console.log( 'You shall NOT pass!' );
 // }
 
+// let name = 'Martynas';
+// if (name.length > 6) {
+//     console.log( "Ilgas vardas" );
+// } else {
+//         console.log( 'vardas tinkamo ilgio' );
+//     }  
+
+// let myAge = 25;
+
+// if (myAge <= 0 || myAge > 100){
+//     console.log( 'Invalid age' );
+// }
+// else if (myAge > 0 && myAge <=18){
+//     console.log( 'Child' )
+// }
+// else if (myAge > 19 && myAge <=99){
+//     console.log( 'Adult' )
+// }
 
