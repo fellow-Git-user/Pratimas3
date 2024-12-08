@@ -124,3 +124,74 @@
 //         alert( '2.3' );
 //         break;
 // }
+
+// let car = 'Rolls-Royce';
+
+// switch (car){
+//     case 'VW':
+//     case 'Audi':
+//     case 'Bentley':
+//     case 'Bugatti':
+//     case 'Lamborghini':
+//     case 'Porsche':
+//         alert ( 'priklauso VW grupei' );
+//         break;
+//     case 'BMW':
+//     case 'Mini':
+//     case 'Rolls-Royce':
+//         alert ( 'priklauso BMW grupei' );
+//         break;
+//     default:
+//         alert( 'Ivesta marke nepriklauso nei BMW nei VW grupei' )    
+// }
+
+// let userInput = 'pupele';
+
+// switch(userInput){
+//     case 'arbuzas':
+//     case 'melionas':
+//     case 'bananas':
+//     case 'ananasas':
+//     case 'kriause':
+//         console.log ( 'vaisius' )
+//         break;
+//     case 'kalafioras':
+//     case 'runkelis':
+//     case 'kopustas':
+//     case 'morka':
+//     case 'pupele':
+//         console.log ( 'darzove' )
+//         break;
+//     default:
+//         console.log ( 'nesuprantu' );
+// }
+
+
+let weekDay = 1;
+
+switch (weekDay) {
+    case 0:
+        weekDay = 'pirmadienis'
+        break;
+    case 1:
+        weekDay = 'antradienis'
+        break;
+    case 2:
+        weekDay = 'treciadienis'
+        break;
+    case 3:
+        weekDay = 'ketvirtadienis'
+        break;
+    case 4:
+        weekDay = 'penktadienis'
+        break;
+    case 5:
+        weekDay = 'sestadienis'
+        break;
+    case 6:
+        weekDay = 'sekmadienis'
+        break;
+    default:
+        alert( 'tokios dienos nera' );
+}
+console.log(weekDay);
