@@ -49,3 +49,12 @@
 //     console.log( 'Adult' )
 // }
 
+// let car = 'Porsche';
+
+// if (car === 'VW' || car === 'Audi' || car === 'Bentley' || car === 'Bugatti' || car === 'Lamborghini' || car === 'Porsche'){
+//     console.log( 'Your car belongs to VW group' );
+// } else if (car === 'BMW' || car === 'Mini' || car === 'Rolls-Rooyce'){
+//     console.log( 'Your car belongs to BMW Group' );
+// } else{
+//     console.log( 'You car belongs to neither VW Group nor BMW Group' );
+// }
