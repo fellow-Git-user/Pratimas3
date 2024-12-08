@@ -20,3 +20,14 @@
 // 'Get out';
 
 // alert( message);
+
+// let legalAge = 20;
+// let clientAge = 19.5;
+
+// if (clientAge >= legalAge){
+//     console.log( 'You shall pass' );
+// } else {
+//     console.log( 'You shall NOT pass!' );
+// }
+
+
